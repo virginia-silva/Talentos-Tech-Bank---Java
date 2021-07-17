@@ -24,28 +24,28 @@ Trilha de Java - Campinas Tech Bank
 ## 2° Semana - POO (Programação orientada a objetos)
 - **Dia 7** - Arrays e ArrayList
 - **Dia 7** - Introdução a paradigmas de programação
-- Classes e Objetos
-- Composição e encapsulamento
-- Classes e métodos estáticos
-- Herança
-- Reescrita de métodos (Sobrecarga e sobreposição)
-- Classes e métodos abstratos
-- Interface
-- Polimorfismo
-- Projeto Prático - Banco (Contas bancárias)
+- **Dia 8** - Classes e Objetos
+- **Dia 8** - Composição e encapsulamento
+- **Dia 9** - Classes e métodos estáticos
+- **Dia 9** - Herança
+- **Dia 10** - Reescrita de métodos (Sobrecarga e sobreposição)
+- **Dia 10** - Classes e métodos abstratos
+- **Dia 11** - Interface
+- **Dia 11** - Polimorfismo
+- **Dia 12** - Projeto Prático - Banco (Contas bancárias)
 
 ## 3° Semana - Banco de Dados e SQL 
-- O que é SQL e seus usos
-- Tabelas e Colunas
-- Relacionamento entre tabelas
-- SQL e Java
-- JDBC
-- Prática de banco de dados
+- **Dia 13** - O que é SQL e seus usos
+- **Dia 14** - Tabelas e Colunas
+- **Dia 15** - Relacionamento entre tabelas
+- **Dia 16** - SQL e Java
+- **Dia 17** - JDBC
+- **Dia 18** - Prática de banco de dados
 
 ## 4° Semana - Web, APIs HTTP, Spring MVC
-- Introdução a WEB
-- O que são APIs?
-- Introdução ao Spring MVC
-- REST APIs
-- Criando um projeto hands on do Spring até o Banco de Dados
-- Projeto final hands on em grupo
+- **Dia 20** - Introdução a WEB
+- **Dia 21** - O que são APIs?
+- **Dia 22** - Introdução ao Spring MVC
+- **Dia 23** - REST APIs
+- **Dia 24** - Criando um projeto hands on do Spring até o Banco de Dados
+- **Dia 25** - Projeto final hands on em grupo
